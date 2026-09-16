@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EMIS Lab">
+  <rect width="64" height="64" rx="15" fill="#0b3a55"/>
+  <path d="M12 16h20M12 32h15M12 48h20" fill="none" stroke="#f5f1e8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M35 48V16l9 13 9-13v32" fill="none" stroke="#e2764c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M9 9c8-6 16-6 24 0M31 9c8-6 16-6 24 0" fill="none" stroke="#b9d7e2" stroke-width="2" stroke-linecap="round" opacity=".9"/>
+</svg>
+
