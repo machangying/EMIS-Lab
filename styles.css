@@ -78,7 +78,6 @@ h1,h2,h3,p { margin-top:0; }
 .publication p { margin:0; color:var(--muted); font-size:14px; line-height:1.65; }
 .publication strong { color:var(--ink); }
 .pub-link { color:var(--blue); font-size:11px; font-weight:800; letter-spacing:.04em; white-space:nowrap; }
-.pub-link::after { content:" ↗"; }
 .patent-list { border-top:2px solid var(--navy); }
 .patent-row { display:grid; grid-template-columns:minmax(260px,1.5fr) 1fr 100px; gap:15px; padding:14px 0; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
 .patent-row strong { color:var(--ink); }
